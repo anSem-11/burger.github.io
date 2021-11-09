@@ -9,3 +9,11 @@
 - There is a smooth transition to sections of the page / Здесь предусмотрен плавный переход к разделам страницы
 
 - The navigation turns into an animated icon "burger" on devices with a small screen / Навигационное меню превращается в анимационный "бургер" на устройствах с мелким экраном.
+
+# Install instruction
+
+* git clone https://github.com/anSem-11/burger.github.io.git
+* cd Tinyone
+* npm i
+* npm start
+* open localhost:3000 at browser
